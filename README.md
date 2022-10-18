@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Amin Rais</h1>
 <h3 align="center">A passionate backend developer from Bogor</h3>
-<img align="right" alt="Coding" width="340" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aminrais-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aminrais-dev" /> </p>
 
 - 🌱 I’m currently learning *Go Programming Language*
 
